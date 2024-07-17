@@ -16,9 +16,12 @@ Equipo 33
 
 
 ---
-# [`Inicio`](../README.md) __Nosotros__ [`Blog`](./blog/README.md) [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
+# [`Inicio`](../README.md) __Nosotros__ [`Blog`](../blog/README.md) [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
 
 ---
+
+
+![img1](../img/pexels-kampus-8428051.jpg)
 
 # 🏷️ Banner
 
