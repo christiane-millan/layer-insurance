@@ -50,6 +50,8 @@ Nuestro objetivo es hacer que te sientas seguro y respaldado durante todo el pro
 
 Si necesitas ayuda, no dudes en contactarnos. ¡Estamos aquí para ti, listos para defenderte y asegurarnos de que todo salga bien! ¡Hablemos hoy mismo y resolvamos esto juntos!
 
+![servicios](../img/pexels-gustavo-fring-3985232.jpg)
+
 ## Otros Servicios Jurídicos Especializados para Ti 🏛️
 La vida puede traerte muchos desafíos legales, y queremos que sepas que no estás solo. Además de nuestra experiencia en seguros, estamos aquí para ofrecerte una amplia gama de servicios jurídicos especializados, siempre con un toque amigable y comprensible.
 
