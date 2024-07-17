@@ -17,7 +17,7 @@ Equipo 33
 
 ---
 
-# [`Inicio`](../README.md) `Nosotros` [`Blog`]() [`Testimonios`]() __Preguntas frecuentes__  `Contacto`
+# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) [`Blog`](./blog/README.md) [`Testimonios`](../testimonios/README.md) __`Preguntas frecuentes`__ [`Servicios`](../servicios/README.md)
 
 ---
 
