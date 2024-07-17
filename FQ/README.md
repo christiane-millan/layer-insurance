@@ -23,6 +23,8 @@ Equipo 33
 
 # Preguntas Frecuentes sobre ELAA
 
+![fq](../img/pexels-kampus-8428054.jpg)
+
 ## 1. ¿Qué es ELAA y en qué nos puede ayudar? 🤔
 ¡Hola! En ELAA somos un grupo de abogados expertos en lidiar con aseguradoras. Nos dedicamos a ayudarte a reclamar tus seguros, conseguir autorizaciones para agentes de seguros y defenderte ante sanciones de la CNSF. Si tienes un problema legal relacionado con aseguradoras, ¡somos tu mejor opción! 💪
 

@@ -17,7 +17,7 @@ Equipo 33
 
 ---
 
-# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) __Blog__ [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
+# [`Inicio`](../../README.md) [`Nosotros`](../../nosotros/README.md) __Blog__ [`Testimonios`](../../testimonios/README.md) [`Preguntas frecuentes`](../../FQ/README.md)  [`Servicios`](../../servicios/README.md)
 
 ---
 
@@ -27,6 +27,8 @@ Equipo 33
 ¡Hola, queridos lectores! 👋 Hoy vamos a platicar sobre un tema que a muchos nos da dolor de cabeza: reclamar un seguro.
 
 Sabemos que puede ser complicado, especialmente cuando no sabemos qué errores podemos cometer. ¡Pero no se preocupen! Aquí les vamos a contar todo lo que necesitan saber para que su reclamación sea todo un éxito.
+
+![error](../../img/pexels-mikhail-nilov-7534773.jpg)
 
 ## 📉 Errores comunes al reclamar un seguro
 

@@ -17,7 +17,7 @@ Equipo 33
 
 ---
 
-# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) __Blog__ [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
+# [`Inicio`](../../README.md) [`Nosotros`](../../nosotros/README.md) __Blog__ [`Testimonios`](../../testimonios/README.md) [`Preguntas frecuentes`](../../FQ/README.md)  [`Servicios`](../../servicios/README.md)
 
 ---
 
@@ -25,6 +25,8 @@ Equipo 33
 
 ## Introducción
 ¡Hola, amigos! 👋 Hoy vamos a platicar sobre algo súper importante: los derechos que tenemos los asegurados frente a las compañías de seguros en México. Queremos que sepan que están protegidos por leyes y regulaciones que aseguran que las aseguradoras operen de manera justa y transparente. ¡Vamos a descubrir estos derechos juntos! 🚀
+
+![leyes](../../img/pexels-pixabay-48148.jpg)
 
 ## 📚 Marco Legal de los Derechos de los Asegurados
 

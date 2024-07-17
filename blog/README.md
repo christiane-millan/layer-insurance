@@ -33,3 +33,5 @@ __Explora artículos útiles para proteger tus derechos y resolver tus dudas."__
 - [Los Derechos de los Asegurados Frente a las Compañías Aseguradoras en México](./art2/README.MD)
 
 - [¿Cómo Reclamar una Demanda con Éxito en México Contra una Aseguradora?](./art3/README.md)
+
+![blog](../img/pexels-mikhail-nilov-7735630.jpg)

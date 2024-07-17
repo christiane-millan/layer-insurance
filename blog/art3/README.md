@@ -17,7 +17,7 @@ Equipo 33
 
 ---
 
-# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) __Blog__ [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
+# [`Inicio`](../../README.md) [`Nosotros`](../../nosotros/README.md) __Blog__ [`Testimonios`](../../testimonios/README.md) [`Preguntas frecuentes`](../../FQ/README.md)  [`Servicios`](../../servicios/README.md)
 
 ---
 
@@ -25,6 +25,8 @@ Equipo 33
 
 ## Introducción
 ¡Hola, amigos! 👋 Hoy les vamos a contar cómo pueden reclamar una demanda con éxito contra una aseguradora en México. Sabemos que puede parecer complicado, pero no se preocupen, aquí les explicamos todo de manera sencilla y concisa. Aunque hay opciones como la UNE y la CONDUSEF, suelen ser lentas y poco efectivas. La mejor alternativa es presentar una demanda mercantil. ¡Vamos a ver cómo se hace! 🚀
+
+![rechazo](../../img/pexels-pavel-danilyuk-8112178.jpg)
 
 ## 📝 Reclamar una Demanda Contra una Aseguradora
 
