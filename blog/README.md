@@ -17,14 +17,19 @@ Equipo 33
 
 ---
 
-[`Inicio`](../README.md) `Nosotros` __Blog__ [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  `Contacto`
+# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) __Blog__ [`Testimonios`](../testimonios/README.md) [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
 
 ---
 
 # Blog
 
-[Descubre los errores más comunes al reclamar un seguro en México y aprende cómo evitarlos para que tu reclamación sea un éxito!](./art1/README.md)
+### Descubre nuestro Blog Jurídico
 
-[Los Derechos de los Asegurados Frente a las Compañías Aseguradoras en México]()
+__Explora artículos útiles para proteger tus derechos y resolver tus dudas."__
 
-[¿Cómo Reclamar una Demanda con Éxito en México Contra una Aseguradora?]()
+
+- [Errores más comunes al reclamar un seguro en México](./art1/README.md)
+
+- [Los Derechos de los Asegurados Frente a las Compañías Aseguradoras en México](./art2/README.MD)
+
+- [¿Cómo Reclamar una Demanda con Éxito en México Contra una Aseguradora?](./art3/README.md)
