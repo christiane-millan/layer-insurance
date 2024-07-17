@@ -16,12 +16,13 @@ Equipo 33
 
 
 ---
-
-# [`Inicio`](../README.md) `Nosotros` [`Blog`](./blog/README.md) __Testimonios__ `Preguntas frecuentes`  `Contacto`
+# [`Inicio`](../README.md) [`Nosotros`](../nosotros/README.md) [`Blog`](../blog/README.md) __`Testimonios`__ [`Preguntas frecuentes`](../FQ/README.md)  [`Servicios`](../servicios/README.md)
 
 ---
 
 # Testimonios
+
+![testimonios](../img/pexels-thirdman-7659454.jpg)
 
 
 >_"Experiencia muy satisfactoria con la excelente asesoría de ELAAA, Eduardo Rodríguez demuestra ser un abogado excepcional y humano. Recomiendo ampliamente su trayectoria y conocimiento."_
