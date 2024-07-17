@@ -48,6 +48,10 @@ Así, aseguramos una comunicación efectiva y empática, alineada con el objetiv
 
 Todos los prompts se encuentran [aquí](https://docs.google.com/document/d/17W_qiUu0INJpTImpSy-L0DgNwxWMFBJYn4TJgXNB8ug/edit).
 
+Imágenes [aquí](https://drive.google.com/drive/folders/1zojuT2VwGIko7n2pZ7IXXyPyeHfAE40y?usp=sharing)
+
+[Página anterior del cliente](https://drive.google.com/drive/folders/1ueJLvW11e8M4DmFK46r9kjN4qWte-X7-?usp=share_link)
+
 ## Contenido Validado y Aprobado:
 
 El contenido base fue proporcionado por la firma de abogados ELAAA. Sin embargo, el material original presentaba deficiencias en la comunicación efectiva para alcanzar los objetivos planteados. Por ello, nos dedicamos a mejorar y optimizar estos textos, asegurándonos de que fueran claros, accesibles y persuasivos. Todos los textos generados por ChatGPT y presentados en este documento han sido aprobados por ELAAA, garantizando así su veracidad y adecuación a las necesidades de la firma. Pueden revisar el contenido proporcionado en el siguiente [enlace](https://drive.google.com/drive/folders/1gREvQ5V_mg7By3nX78RKbb9ZlAM6FmXY?usp=share_link).
